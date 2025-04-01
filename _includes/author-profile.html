@@ -162,6 +162,22 @@
       {% if author.wechat %}
       <li><i class="fab fa-fw fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat: {{ author.wechat }}</li>
       {% endif %}
+      {% if author.gif %}
+      <li style="text-align: center; margin-top: 20px;">
+        <img src="{{ base_path }}/images/{{ author.gif }}" alt="Fun GIF" style="max-width: 180px; border-radius: 5px;">
+      </li>
+      <li style="text-align: center; margin-top: 10px;">
+        <img src="{{ base_path }}/images/panda3.png" alt="Panda Monitor" style="max-width: 90px;">
+        <div style="font-size: 12px; margin-top: 0px; margin-bottom: -85px;">Panda Monitor</div>
+      </li>
+      <li style="text-align: center; margin-top: 0px;">
+        <div style="transform: scale(0.4); transform-origin: center;">
+          <a href='http://www.freevisitorcounters.com' style="font-size: 10px;">www.Freevisitorcounters</a> 
+          <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=633e00a371489f9ca329ae15f0688106628500e0'></script>
+          <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1322203/t/0"></script>
+        </div>
+      </li>
+      {% endif %}
     </ul>
   </div>
 </div>
