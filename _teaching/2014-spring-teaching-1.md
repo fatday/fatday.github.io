@@ -1,20 +1,35 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+layout: archive
+title: ""
+permalink: /teaching/
+author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# Stanford University
+* Autumn 2024: MATH 51 - Teaching Assistant
+  * Lead discussion session
+  * Exam grading
+  * Office hours
 
-Heading 1
-======
 
-Heading 2
-======
+# University of Waterloo
+* Winter 2023: STAT 231 - Grader
+  * Assignments grading
 
-Heading 3
-======
+* Fall 2021: MATH 128 - Grader
+  * Assignments grading
+
+* Spring 2021: CS 486 - Course Assistant
+  * Setup course materials
+  * Support course recording
+  * Q & A
+  * Assignments grading
+
+* Spring 2021: CS 245 - Course Assistant
+  * Setup course materials
+  * Support course recording
+  * Q & A
+  * Assignments grading
+
+* Fall 2020: MATH 135 - Grader
+  * Assignments grading
