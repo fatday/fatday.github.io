@@ -156,6 +156,12 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
+      {% if author.rednote %}
+      <li><i class="fas fa-fw fa-book icon-pad-right" aria-hidden="true"></i>RedNote: {{ author.rednote }}</li>
+      {% endif %}
+      {% if author.wechat %}
+      <li><i class="fab fa-fw fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat: {{ author.wechat }}</li>
+      {% endif %}
     </ul>
   </div>
 </div>
