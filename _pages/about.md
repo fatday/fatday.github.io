@@ -17,3 +17,5 @@ I am a first year master student at [Stanford University](https://www.stanford.e
 Before coming to Stanford, I earned my bachelor’s degree in Mathematics from the [University of Waterloo](https://uwaterloo.ca/), where I majored in Pure Mathematics, Statistics and minored in Computer Science. I’ve been fortunate to work under the guidance of Prof. [Liqun Diao](http://liqundiao.com/) and [Yi Shen](https://sites.google.com/site/yishenenglish/), contributing to projects involving both bayesian statistics and probability theory.
 
 Outside of study, I enjoy swimming 🏊‍♀️, cooking 👨‍🍳 and traveling 🗺. My MBTI is INTP.
+
+This summer I will join [**Liquid AI**](https://www.liquid.ai/) as a ML Research Scientist intern. If you are in SF or Boston, feel free to connect with me and hand out togethet 🤗🤗🤗
