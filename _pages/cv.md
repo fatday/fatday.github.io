@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* Summer 2025: Member of Technical Staff ‑ Machine Learning Research Scientist Intern at **Liquid AI**
+* Summer 2025: Member of Technical Staff ‑ Machine Learning Research Scientist Intern at [**Liquid AI**](https://www.liquid.ai/)
   * Location: San Francisco, CA, United States
   * TBD
 <br><br>
