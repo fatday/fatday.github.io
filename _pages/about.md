@@ -18,4 +18,4 @@ Before coming to Stanford, I earned my bachelor’s degree in Mathematics from t
 
 Outside of study, I enjoy swimming 🏊‍♀️, cooking 👨‍🍳 and traveling 🗺. My MBTI is INTP.
 
-This summer I will join [**Liquid AI**](https://www.liquid.ai/) as a ML Research Scientist intern. If you are in SF or Boston, feel free to connect with me and hand out togethet 🤗🤗🤗
+This summer I will join [**Liquid AI**](https://www.liquid.ai/) as a ML Research Scientist intern. If you are in San Francisco or Boston, feel free to connect with me and hand out togethet 🤗🤗🤗
