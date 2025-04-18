@@ -20,4 +20,4 @@ Other than the above interests, I am also open to discuss some graduate level ma
 
 Outside of study, I enjoy swimming 🏊‍♀️, biking 🚴, cooking 👨‍🍳 and traveling 🗺. My MBTI is INTP.
 
-This summer I will join [**Liquid AI**](https://www.liquid.ai/) as a ML Research Scientist intern. If you are in San Francisco or Boston, feel free to connect with me and hand out togethet 🤗🤗🤗
+This summer I will join [**Liquid AI**](https://www.liquid.ai/) as a ML Research Scientist intern. If you are in Bayarea this summer, feel free to connect with me and hand out together 🤗🤗🤗
