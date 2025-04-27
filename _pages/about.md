@@ -20,4 +20,6 @@ Other than the above interests, I am also open to discuss some graduate level ma
 
 Outside of study, I enjoy swimming 🏊‍♀️, biking 🚴, cooking 👨‍🍳 and traveling 🗺. My MBTI is INTP.
 
+In this quarter, I am taking **CME 308 (Stochastic Methods)**, **CME 213 (Parallel Computing & Cuda)** and **MS&E 244 (Statistical Arbitrage)**. Moreover, I am also doing research about **RAG in LLM**, trying to figure out some new methodologies to improve the LLM performance. In the free time, I usually go out to get comfort food or go to gym/swimming (trying to lose 4kg weight before summer 🤗).
+
 This summer I will join [**Liquid AI**](https://www.liquid.ai/) as a ML Research Scientist intern. If you are in Bayarea this summer, feel free to connect with me and hand out together 🤗🤗🤗. Moreover, I am also open to opportunities in the fall term, whatever research assistant, internship or any others.
