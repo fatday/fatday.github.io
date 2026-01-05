@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MS in Computational and Mathematical Engineering, Stanford University, 2024 - Current
-  * Mathematical and Computational Finance Track (well, just a title, less than 10% I learned here is about finance)
+  * Mathematical and Computational Finance Track
 <br><br>
 * BMATH, University of Waterloo, 2019 - 2024
   * Major: Pure Mathematics, Statistics and Mathematical Finance
