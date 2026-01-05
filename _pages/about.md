@@ -20,4 +20,6 @@ Other than the above interests, I am also open to discuss some graduate level ma
 
 Outside of study, I enjoy swimming 🏊‍♀️, biking 🚴, cooking 👨‍🍳 and traveling 🗺. My MBTI is INTP.
 
+欢迎有空找我聊天
+
 
