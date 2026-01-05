@@ -44,7 +44,7 @@ Work experience
 
 Research experience
 ======
-* April 2025 - June 2025: Bayesian Inference in Bioinformatics at **Stanford University**
+* April 2025 - June 2025: Large Language Model Retrieval‑Augmented Generation at **Stanford University**
   * Location: Stanford, CA, United States
   * Designing and implementing a retrieval‑augmented generation (RAG) pipeline. Improved LLMs performance with retrieval‑based feed‑
 back, optimizing response relevance through reward modeling.
