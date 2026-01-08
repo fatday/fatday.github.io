@@ -24,6 +24,7 @@ Work experience
 * Oct 2025 - Now: Member of Technical Staff at [**Liquid AI**](https://www.liquid.ai/)
   * Location: San Francisco, CA, United States
   * Team: Post-Training
+  * Model Contribution (as of January 2026): **LFM2.5-1.2B-instruct**
 <br><br>
 * Summer 2025: Member of Technical Staff ‑ Machine Learning Research Scientist Intern at [**Liquid AI**](https://www.liquid.ai/)
   * Location: San Francisco, CA, United States
